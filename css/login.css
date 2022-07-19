@@ -1,0 +1,54 @@
+.sign-form {
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 40%;
+    overflow: hidden;
+}
+
+.sign-form img {
+    width: 60%;
+    height: 25%;
+}
+
+.sign-form input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    height: 45px;
+    box-sizing: border-box;
+    outline: none;
+    border-color: blue;
+    border-radius: 5px;
+}
+
+.txt {
+    margin: 20px, 0px;
+    border-radius: 0.5px;
+}
+
+.btn:hover {
+    background: #487eb0;
+    color: #fff;
+}
+
+.btn {
+    margin-top: 60px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: 0.8s;
+}
+
+.sign-form a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    transition: 0.8s;
+    display: block;
+}
+
+.sign-form a:hover {
+    background: rgb(255, 252, 252);
+    color: rgb(201, 182, 182);
+}

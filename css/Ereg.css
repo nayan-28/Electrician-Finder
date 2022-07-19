@@ -1,0 +1,63 @@
+.users {
+    color: rgb(37, 95, 255);
+}
+
+.mistiri {
+    color: #fff;
+}
+
+.sign-form {
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 25%;
+}
+
+.sign-form img {
+    width: 35%;
+    height: 25%;
+}
+
+.sign-form input {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    height: 45px;
+}
+
+.txt {
+    margin: 20px, 0px;
+    border-radius: 0.5px;
+}
+
+.btn {
+    margin-top: 60px;
+    margin-bottom: 20px;
+    background: #487eb0;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.8s;
+}
+
+.btn :hover {
+    transform: scale(0.96);
+}
+
+.sign-form a {
+    text-decoration: none;
+    color: rgb(239, 250, 243);
+    padding: 5px;
+    transition: 0.8s;
+    display: block;
+}
+
+.sign-form a:hover {
+    text-decoration: none;
+    background: rgb(129, 252, 166);
+    color: rgb(24, 20, 20);
+}
+
+.btn:hover {
+    background: rgb(129, 252, 166);
+    color: rgb(24, 20, 20);
+}

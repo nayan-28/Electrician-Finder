@@ -1,0 +1,12 @@
+.my_information {
+    margin-top: 2%;
+    text-decoration: none;
+    text-align: center;
+    text-shadow: 0 25px 25px rgb(255, 158, 67);
+    color: aliceblue;
+}
+
+.my_information img {
+    height: 400px;
+    width: 300px;
+}

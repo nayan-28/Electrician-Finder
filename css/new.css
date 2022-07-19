@@ -1,0 +1,16 @@
+.interface {
+    background-color: rgb(255, 247, 247);
+    height: 160px;
+    width: 450px;
+    text-align: center;
+    margin-left: 30%;
+    box-shadow: 0 15px 30px black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
